@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.12
 ARG VERSION=1.12.0
 
 # Inspiration from https://github.com/gmr/alpine-pgbouncer/blob/master/Dockerfile
